@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/AlternateSplit.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/DeleteAlternateNode.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/MergeSortLinkedList.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/DeleteNodesWithGreaterValuesOnRight.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/AddLinkedList.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/MoveLastElementLinkedList.java</file>
-            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/LinkedList/Singly/ReverseLinkedListInGivenSize.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/PriorityQueueAsStack.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/KStacksInNElementArray.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/StackUsingQueues.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/QueueUsingStackWithOneStack.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/TwoStacksInArray.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/MergeStack.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/QueueUsingStack.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/StackUsingOneQueue.java</file>
+            <file>file:/C:/Users/Kunwar/Documents/NetBeansProjects/Preparations/src/Stacks/Implementation/MakingMinStack.java</file>
         </group>
     </open-files>
 </project-private>
